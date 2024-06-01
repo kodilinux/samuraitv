@@ -1,3 +1,6 @@
 01 Via Morena,https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 02 Loading TV,https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 03 Run Ação ,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+04 Tv Carioca,https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
+05 Run Time TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+06 1980 Channel, https://stmv6.voxtvhd.com.br/channel80s/channel80s/playlist.m3u8
