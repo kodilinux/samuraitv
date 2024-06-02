@@ -6,3 +6,4 @@
 06 1980 Channel,https://stmv6.voxtvhd.com.br/channel80s/channel80s/playlist.m3u8
 07 Cine Brasil,https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/playlist.m3u8
 08 MyTime Movie Network - Brasil,https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+09 Preço da Vida,https://youtu.be/v_SkBIhsXns
