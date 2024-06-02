@@ -1,5 +1,3 @@
-CANAIS AO VIVO
-
 01 Via Morena,https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 02 Loading TV,https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 03 Run Ação ,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
