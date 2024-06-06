@@ -15,3 +15,8 @@
 15 TV Clube Web,https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 16 Vivax TV,https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 17 Esflix TV,https://server.hubcloud.online:3285/hybrid/play.m3u8
+18 Rede TV PR,https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+19 Rede TV TO,https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+20 Rede TV RS,https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+21 SBT SP,https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+22 TV Gru Web,https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
