@@ -20,3 +20,5 @@
 20 Rede TV RS,https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 21 SBT SP,https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 22 TV Gru Web,https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
+23 Cultne Tv,https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+24 RTP 1,https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
