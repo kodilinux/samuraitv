@@ -1,24 +1,4 @@
-01 Via Morena,https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
-02 Loading TV,https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-03 Run Ação ,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-04 Tv Carioca,https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
-05 Run Time TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-06 1980 Channel,https://stmv6.voxtvhd.com.br/channel80s/channel80s/playlist.m3u8
-07 Cine Brasil,https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/playlist.m3u8
-08 MyTime Movie Network - Brasil,https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-09 Moviesphere Brazil,https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
-10 Anime TV,https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-11 Retro Cartoon,https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-12 Latina Sat,https://stream.ichibantv.com:3328/stream/play.m3u8
-13 Caravana Play,https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
-14 Otaku Sign TV,https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
-15 TV Clube Web,https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-16 Vivax TV,https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
-17 Esflix TV,https://server.hubcloud.online:3285/hybrid/play.m3u8
-18 Rede TV PR,https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-19 Rede TV TO,https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-20 Rede TV RS,https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-21 SBT SP,https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-22 TV Gru Web,https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
-23 Cultne Tv,https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
-24 RTP 1,https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
+TV Cultura|https://streaming.cultura.com.br/live.m3u8
+Canal Nerd|https://cdn.meulink.com/nerd.m3u8
+Retro Games TV|https://gamescdn.xyz/retro.m3u8
+Música ao Vivo|https://live.musicchannel.com.br/stream.m3u8
