@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed777683fdb619972ae85298a4925b40.webp",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38cca32010062541d346871765a20c4a.webp",Multi Canais
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp",Filmes Online
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhczv3j0W-PqEefPNYdTmhgfiJ_V947k6ogZvGKcshkQxA_pWYzVRzBFPh5hsB5Be1INL1pbEm_r6hNX1jT0fnJZF3SLvBPCia_-en1spz4oj_APQEQTjVvMJPT5XctdMy5duJW8qaZNYMvNB8HxhLGEWRWDoz3WEpdD6j82X0rIXFdbFMqoiPkhClymKI/s200/XTREME%20TV.webp",XTREME
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv68xjWCnNLU5yVel0CHnB6HkBuACJ-69dY5VI_COJJQ9slZvWIDmvSAH-e4bVYSmPmnABoO1SIcg5kJGaC4D9kfM3ZXrVuEM_dN3-ifsBnYoeizsyLZwaaUsT9jOKHmjcT9BBta_p36veEuD1sJBGG4kK47N4_p4fiJ5Rp-wy4ewwo13pLU_yELfj9lk/s200/CARAVANA%20PLAY.webp",CARAVANA PLAY
@@ -9,3 +15,4 @@ https://stmv.webtvninjas.com.br/abner5597/abner5597/playlist.m3u8
 https://streaming.cloudecast.com/hls/awtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgY6K89Rag4d21yIpnLwm7W4VpRPrTORboj-KLz5e_T2aYcwustg_TKS9j-PKG-vh1k4nPDD9Y1ZoTPjG7BnQ5ktv6Wth_yw28jCH9tDEHVD4uhgtddukdnMqxd9moSW8tG1Ca8R3JFlFqvcP1TFLxJ-5yc8S6PfIFP7J7yYHa0oITYnDXiHLCMBTOFXw/s200/ISTV.webp",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+
