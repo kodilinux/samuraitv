@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",Multi Canais
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",N Sports
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",RS News Sports
+https://video03.logicahost.com.br/rssports4/rssports4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",Filmes Online
 https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",Sony One Cinema
@@ -21,6 +23,9 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",Multi Canais
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+
 
 
 
