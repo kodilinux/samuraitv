@@ -1,19 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed777683fdb619972ae85298a4925b40.webp",CazéTV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38cca32010062541d346871765a20c4a.webp",Multi Canais
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",Multi Canais
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp",Filmes Online
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",Filmes Online
 https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",Sony One Cinema
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv68xjWCnNLU5yVel0CHnB6HkBuACJ-69dY5VI_COJJQ9slZvWIDmvSAH-e4bVYSmPmnABoO1SIcg5kJGaC4D9kfM3ZXrVuEM_dN3-ifsBnYoeizsyLZwaaUsT9jOKHmjcT9BBta_p36veEuD1sJBGG4kK47N4_p4fiJ5Rp-wy4ewwo13pLU_yELfj9lk/s200/CARAVANA%20PLAY.webp",CARAVANA PLAY
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",CARAVANA PLAY
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp",Otaku Sign Tv
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp",LOADING
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",LOADING
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuzFIG9AnbTiIIbq7QR7VJ99fLTSV-ME3jIDkTJ_HBDoSjkR2dosfG4L75iX5uwdRKHPtPgKQI4-24PDQQyEsxW00CQ0WPyqWbx5Rzzo3WbZd__S1yk-qe0EH50qEeFqODjanb46NtbU0SB8KPuv6t35_ohjxQO7goC2uP67ZUa3cT_lcHM5ROB_bAaak/s200/BS-TV%20ONLINE.webp",BS-TV ONLINE
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",BS-TV ONLINE
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",ANIME TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",Runtime Ação
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/31/13/56/311356083ac98db2435f2497b10289bc.jpg",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
 
 
