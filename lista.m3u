@@ -79,12 +79,16 @@ https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",RACER BRASIL
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",NATURE TIME
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",NATURE HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",GOSPEL MOVIE
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",INVESTIGAÇÃO CRIMINAL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Pluto Esportes 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+
 
 
 
