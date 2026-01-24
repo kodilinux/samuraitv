@@ -89,6 +89,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",DarkFlix HD 
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",TV CARIOCA HD 
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w1095991299.m3u8
 
 
 
