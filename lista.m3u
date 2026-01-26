@@ -103,6 +103,9 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://origin-05.nxplay.com.br/DREAMWORKS/index.m3u8?token=roku-t0k3n-v3r1fy1ng
 #EXTINF://-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/film-arts-logo-png-transparent.png",FILM&ARTS
 https://origin-05.nxplay.com.br/Film_Arts_Brasil/index.m3u8?token=roku-t0k3n-v3r1fy1ng
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/2ad94fcf15bf070ca1c286924dea681c260e9c6d46901d433902c418b5aeca46.png",TV ULTRA HD
+https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8
+
 
 
 
