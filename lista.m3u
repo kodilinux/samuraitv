@@ -1,115 +1,87 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",CazéTV
+#PLAYLIST:Alonso TV IPTV
+
+#EXTINF:-1 tvg-id="Casetv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed777683fdb619972ae85298a4925b40.webp" group-title="Futebol",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",N Sports
+
+#EXTINF:-1 tvg-id="nsports.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp" group-title="Futebol",N Sports 
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Fluel TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",CombaTV
-https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Filmes Online
-https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Runtime TV e FILMES
-https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Runtime Ação
-https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Runtime CRIME
-https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",RUN TIME COMÉDIA
-https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Run Time Romance
-https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",RUN TIME FAMÍLIA
-https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Otaku Sign Tv
-https://stmv1.srvif.com/anime/anime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",LOADING
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",AniTV
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Gospel Cartoon
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38cca32010062541d346871765a20c4a.webp",Multi Canais
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",CARAVANA PLAY
-https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",MasterChef
-https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Tastemade
-https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Receitas Fast
-https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Canal Bem Melhor
-https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Cultne Tv
-https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Filmelier
-https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Adrenalina Pura TV
-https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Cindie Lite
-https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",MyTime Movie Network
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",Sony One Cinema
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2112f7942be7a7bf3f4b41e082cee2b8.webp",Moviesphere HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Anime | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Beyblade | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Adrenalina Freezone | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Runtime TV e FILMES
-https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",GLN TV
-https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",AWTV
-https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",SWT
-https://stmv8.samcast.com.br/edgard8922/edgard8922/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",1980 CHANNEL
-https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",TELA BRASIL TV
-https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",BS-TV
-https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",RACER BRASIL
-https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",NATURE HD
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",GOSPEL MOVIE
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",INVESTIGAÇÃO CRIMINAL
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",Pluto Esportes 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",DarkFlix HD 
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aac6a1662ba8648e493485d6dc20faaf.webp",TV PANTANAL MS HD 
-https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1121998906.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",TV CARIOCA HD 
-https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w1095991299.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/69/fa/b4/69fab4571c77909e760d5a43210e0271.jpg",SOMOS NOVELAS HD 
-https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00375-fusemediafast-somosnovelas-fuseus/cb553d1d736c64869cd43e66d9ef41a8dd24f0b02a6f9e6c33f6058870df1f499dc0a89da803e4782dc14b9c3e5339415c62c009bc0169c2dd7bab4146394e28ce87c31bdae80c0bb6d8062a2fad7a1f54e07f17db35146490a93b189531b04e0011c3007a1967deea47ae7042ddfb72ef025597bd813862284a28ca0e06bab94ec5aaa31e1c8732beb50248855c1da5dd1f9ccb1dbf84ca5b80448373f80a989be0f68c42dbdac473ca06e4351b516d28cad737c09f1ff2899c306ace7579455353bff497b31f6d80170e04a9aa92f23cfe4199d024846564bd52ca7d6351e01ac2831a522fdacf99ed00271bb6c541682bd29dcae8c8144373e266c093b040738ce21c3866c468ca2b2839ea8ea3b1377074e4da0084b9791278ed9e50899cbdc19ed808da2e44b8a5c4aa47247e621603885ce8fd07be718a2bf89e4166344935f768fedbaea606901beba44d576a42311991faa2d20b29c3631a15db61d664356dd9386346414c93585d41863c0389393cb40d7bd002b49425fbb2c3be461abbdad54df66bafe45f89b6308455690a53e0b20e4a4c40799fcf565e11379111b48a9ab4395951b9b9ecac9b132f117057731c9beee2479e8ceb2009599400712e274657de2ffe5df22c054022c015d6ec2e71860d2e64a6913a4f496599c6fed5c9868a67bd6ddcc2f8767e6f0d2ded7d52733b8af8d800bd15447c7351854f5742bb06484ba5c09ab2d7d338bcf10ecd196c1071caf913336b03261964d9fc45d85ceb9f18f9abc253c2ea877114d0694360fe5065770a6b581d148da76f0032d5ae9843f49674/155/848x480_1742030/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp",WEB TV CINE HD
+
+#EXTINF:-1 tvg-id="rsnewssports.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/702517cc49df69d1f090c7d5227c53ba.webp" group-title="Futebol",RS News Sports
+https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rsnsports4.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7d9c740c6bc88f2f8159247311b72a9b.webp" group-title="Futebol",RS News Sports 4
+https://video03.logicahost.com.br/rssports4/rssports4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="redetvmais.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c4d86e44f7e8a8d736dd477176a05faf.webp" group-title="Variedades",Redetv Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rbtv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" group-title="Variedades",Rede Brasil de Televisão
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+
+#EXTINF:-1 tvg-id="manchete.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44fae4d3394877ed0880e78b4563450d.webp" group-title="Variedades",Tv Manchete 
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telesintese.com.br/wp-content/uploads/2016/05/logo-EBC-Empresa-Brasileira-de-Comunicacao.png",EBC  HD
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF://-1 tvg-logo="https://static.wikia.nocookie.net/shrek/images/1/1b/DreamWorks_Animation_logo_%282016%29.png",DREAMWORKS HD
+
+#EXTINF:-1 tvg-id="bstvsp.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e20a859ee6fe9171dd3047af6be1e73e.webp" group-title="Variedades",BS TV  SP
+https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bs-tv.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuzFIG9AnbTiIIbq7QR7VJ99fLTSV-ME3jIDkTJ_HBDoSjkR2dosfG4L75iX5uwdRKHPtPgKQI4-24PDQQyEsxW00CQ0WPyqWbx5Rzzo3WbZd__S1yk-qe0EH50qEeFqODjanb46NtbU0SB8KPuv6t35_ohjxQO7goC2uP67ZUa3cT_lcHM5ROB_bAaak/s200/BS-TV%20ONLINE.webp" group-title="Filmes",BS-TV ONLINE
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dreamworks.br" tvg-logo="https://static.wikia.nocookie.net/shrek/images/1/1b/DreamWorks_Animation_logo_%282016%29.png" group-title="Infantil",DREAMWORKS
 https://origin-05.nxplay.com.br/DREAMWORKS/index.m3u8?token=roku-t0k3n-v3r1fy1ng
-#EXTINF://-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/film-arts-logo-png-transparent.png",FILM&ARTS
-https://origin-05.nxplay.com.br/Film_Arts_Brasil/index.m3u8?token=roku-t0k3n-v3r1fy1ng
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/2ad94fcf15bf070ca1c286924dea681c260e9c6d46901d433902c418b5aeca46.png",TV ULTRA HD
-https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8
 
+#EXTINF:-1 tvg-id="sbtsp.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Variedades",SBT
+https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
 
+#EXTINF:-1 tvg-id="retrocartoon.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Desenhos",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ebc.br" tvg-logo="https://telesintese.com.br/wp-content/uploads/2016/05/logo-EBC-Empresa-Brasileira-de-Comunicacao.png" group-title="Variedades",EBC
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 
+#EXTINF:-1 tvg-id="tvpantanalms.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aac6a1662ba8648e493485d6dc20faaf.webp" group-title="Variedades",TV Pantanal MS
+https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1121998906.m3u8
 
+#EXTINF:-1 tvg-id="futura.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d763ea519688a3d155d370eaa3c9892b.webp" group-title="Variedades",Futura
+https://tv.unisc.br/hls/test.m3u8
 
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/CNN_Brasil_%28red_background%29.svg/250px-CNN_Brasil_%28red_background%29.svg.png" group-title="Notícias",CNN BRASIL
+https://origin-nxtv.b-cdn.net/CNN_Brazil_TK/tracks-v1a1/mono.ts.m3u8?token=ff3ca6a3-1f5e-4ad2-a2fc-609daadc8b88
 
+#EXTINF:-1 tvg-id="globonews.br" tvg-logo="https://s2-historiaglobo.glbimg.com/W30xC684vNcD3k3DY44uYxvD6yo=/0x0:1083x537/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_b45177f3fc8a432fa50d0ed4155f34b9/internal_photos/bs/2022/X/4/hY7nMZTKKReekLed2hOg/novalogo.png" group-title="Notícias",Globo News 
+https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ae3270712e80a6ee4cd2dd542fcc48c6.webp" group-title="Variedades",TV Carioca
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w1095991299.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/dc/Logo_do_Darkflix.png/250px-Logo_do_Darkflix.png" group-title="Filmes",DarkFlix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="Filmes",Gospel Movie
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a3de0566d21144720dd6ff508fab108.webp" group-title="Esportes",RACER BRASIL
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5c2cd9d569c63b9c04151160b32aaf1a.webp" group-title="Variedades",Tela Brasil
+https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp" group-title="Filmes ",1980 Channel
+https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjevhlTy5lbPHleGcOmuf9n9gu8IuRSSHswvE6qaUBE9uGF4DX2lt5vHzym7YSAatz5zfJl9Q5BASbCzxMcxksHy9GwgXcMhSTlguJd0j5TGnsBnf6h4-4BPSTBGz3JZfl54dnYmlyH-pG0K8FuhDWkF8wzqeqXk7rY9csdx_6iTbNepCzeE_RaE9NldZQ/w200-h100/SWT.webp" group-title="Filmes",SWT
+https://stmv8.samcast.com.br/edgard8922/edgard8922/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp" group-title="Filmes",AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd6b5dd8f0aa8191dc9869fb54dc5886.webp" group-title="Filmes",Runtime TV e FILMES
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="Filmes",Runtime Ação
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ae540b891b4a0d073b39ae0bb693f5c3.webp" group-title="Filmes",Runtime Crime 
+https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
 
