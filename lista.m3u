@@ -166,3 +166,9 @@ https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist108
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2cdebe5a7f3e743571feecafe10aa023.webp" group-title="Filmes",Crime e Investigação
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889430
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/05/62/ce/0562ceaa3c58fca7bcba87f28a4a2d48.jpg" group-title="Filmes",AXN
+https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8?token=ff3ca6a3-1f5e-4ad2-a2fc-609daadc8b88
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b8/56/00/b85600c9a78d920c888851f4f760cfa2.jpg" group-title="Documentário",HISTORY CHANNEL
+https://cdn-3.nxplay.com.br/HISTORY_TK/index.m3u8?token=ff3ca6a3-1f5e-4ad2-a2fc-609daadc8b88
+
