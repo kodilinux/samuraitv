@@ -22,8 +22,8 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 #EXTINF:-1 tvg-id="manchete.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44fae4d3394877ed0880e78b4563450d.webp" group-title="Variedades",Tv Manchete 
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bstvsp.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e20a859ee6fe9171dd3047af6be1e73e.webp" group-title="Variedades",BS TV  SP
-https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
+#EXTINF:-1 tvg-id="bstvsp.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOd4Px39dGrgbO_b9pDhfML0rQLHW8Q0nnq0AwItPKxHem3pyvWMweYQICJbCrBF5FE_svRLk5c6uhyt8La14NAxQ-PGBree1XqZoG7Y7UzIQf_NjAzpJJ7GDINm0S6c0UZtPQ5BjU-X2zNER5lyDyeG7H9rtTXdVGQHsLA9Nyd7D_5FNmW1ZufLC5vTc/s200/1980%20CHANNEL.webp" group-title="Filmes",1980 CHANNEL
+https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bs-tv.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuzFIG9AnbTiIIbq7QR7VJ99fLTSV-ME3jIDkTJ_HBDoSjkR2dosfG4L75iX5uwdRKHPtPgKQI4-24PDQQyEsxW00CQ0WPyqWbx5Rzzo3WbZd__S1yk-qe0EH50qEeFqODjanb46NtbU0SB8KPuv6t35_ohjxQO7goC2uP67ZUa3cT_lcHM5ROB_bAaak/s200/BS-TV%20ONLINE.webp" group-title="Filmes",BS-TV ONLINE
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
@@ -166,11 +166,11 @@ https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist108
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2cdebe5a7f3e743571feecafe10aa023.webp" group-title="Filmes",Crime e Investigação
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889430
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/05/62/ce/0562ceaa3c58fca7bcba87f28a4a2d48.jpg" group-title="Filmes",AXN
-https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8?token=ff3ca6a3-1f5e-4ad2-a2fc-609daadc8b88
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo4ipX7qMyoS8EepGUzerZBZ9m5jAN6DO76q95wwup7Lx7eu7nqwRA5hKEr9B0_ngUIjA6C0Kd2KseZZk7xsmH2B4T2DOZuI8ItECkyuXxsrAwW3l5upENyjfx3Mzk5JuqL8k26uRXRxFQOal47OYiAlYu4PhOMEf_Gt3ILQmlLhBFEJYTyl3Fgam8OL8/w200-h100/TVNA%20FILMES.webp" group-title="Filmes",TVNA FILMES
+https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b8/56/00/b85600c9a78d920c888851f4f760cfa2.jpg" group-title="Documentário",HISTORY CHANNEL
-https://cdn-3.nxplay.com.br/HISTORY_TK/index.m3u8?token=ff3ca6a3-1f5e-4ad2-a2fc-609daadc8b88
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidI6vX-G9Rx94B57uf6cVgXqLR9oV5LmYDt7p0UseZTrBDlQWxbAyy1NBxNBKz3Vf9YUUZanaJt32qvkocCfDBuAKINz6WKghzSGk3QYX-lplCCHTWZAe-7xkFyKoNRi7xyG27n6eBVg2TOdWS_n-z6lLwtNSrM5Ie_H5X9qGyEBrMIaf5djnBL9nEUWc/s200/REVIVA%20TV.webp" group-title="Séries ",REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d7c29def7ffc55be76fdb008b5b34d0d.webp" group-title="Filmes",Spark TV Luz & Amor
 https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/playlist.m3u8
