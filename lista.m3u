@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:lista
+#PLAYLIST:SamuraiTV
 
 #EXTINF:-1 tvg-id="Casetv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed777683fdb619972ae85298a4925b40.webp" group-title="Futebol",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
@@ -28,7 +28,7 @@ https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8
 #EXTINF:-1 tvg-id="bs-tv.br" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuzFIG9AnbTiIIbq7QR7VJ99fLTSV-ME3jIDkTJ_HBDoSjkR2dosfG4L75iX5uwdRKHPtPgKQI4-24PDQQyEsxW00CQ0WPyqWbx5Rzzo3WbZd__S1yk-qe0EH50qEeFqODjanb46NtbU0SB8KPuv6t35_ohjxQO7goC2uP67ZUa3cT_lcHM5ROB_bAaak/s200/BS-TV%20ONLINE.webp" group-title="Filmes",BS-TV ONLINE
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwosZywu_X-Etyzz4DT3lkbiIck0egUvlx_DG_ZWJXbDyDsNd2ePQlK3lEQuXFebAmUMizdLcxXCkWhG8ad2f8-OUeO6RMgmvUMxwVM7PhVrNYXlrzSpxEknVDdd6zoZu4S96rKAg9kizL1abCVL6cutCTVFEp2Xd6E8XDVhdUpNaPidq7K4NezKfoBbY/w200-h100/WORDING%20TV.webp" group-title="Anime",WORDING 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwosZywu_X-Etyzz4DT3lkbiIck0egUvlx_DG_ZWJXbDyDsNd2ePQlK3lEQuXFebAmUMizdLcxXCkWhG8ad2f8-OUeO6RMgmvUMxwVM7PhVrNYXlrzSpxEknVDdd6zoZu4S96rKAg9kizL1abCVL6cutCTVFEp2Xd6E8XDVhdUpNaPidq7K4NezKfoBbY/w200-h100/WORDING%20TV.webp" group-title="Animes",WORDING 
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sbtsp.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Variedades",SBT
