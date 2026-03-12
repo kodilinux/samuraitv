@@ -29,7 +29,7 @@ https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwosZywu_X-Etyzz4DT3lkbiIck0egUvlx_DG_ZWJXbDyDsNd2ePQlK3lEQuXFebAmUMizdLcxXCkWhG8ad2f8-OUeO6RMgmvUMxwVM7PhVrNYXlrzSpxEknVDdd6zoZu4S96rKAg9kizL1abCVL6cutCTVFEp2Xd6E8XDVhdUpNaPidq7K4NezKfoBbY/w200-h100/WORDING%20TV.webp" group-title="Anime",WORDING 
-https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sbtsp.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Variedades",SBT
 https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
@@ -174,4 +174,5 @@ https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d7c29def7ffc55be76fdb008b5b34d0d.webp" group-title="Filmes",Spark TV Luz & Amor
 https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/playlist.m3u8
+
 
