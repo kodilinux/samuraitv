@@ -70,8 +70,8 @@ https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="Filmes ",Filmes Online
 https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjevhlTy5lbPHleGcOmuf9n9gu8IuRSSHswvE6qaUBE9uGF4DX2lt5vHzym7YSAatz5zfJl9Q5BASbCzxMcxksHy9GwgXcMhSTlguJd0j5TGnsBnf6h4-4BPSTBGz3JZfl54dnYmlyH-pG0K8FuhDWkF8wzqeqXk7rY9csdx_6iTbNepCzeE_RaE9NldZQ/w200-h100/SWT.webp" group-title="Filmes",SWT
-https://stmv8.samcast.com.br/edgard8922/edgard8922/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/90f2be25aedc782f9ff779b33302ee8a.webp" group-title="Animes",Kanade 
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp" group-title="Filmes",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
