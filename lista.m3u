@@ -193,3 +193,9 @@ https://media-gmcdn.eduplay.rnp.br/media/CFwapWdcMzXY/OLgCRZTdHDDL6bG4-g9gbA'1/7
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwx3MrNrvcSLzC_JugY05887GQuoQwkMr6CDH8E5-QRC0pPhGZe8enDAU95lKnOD_Ti-iIfYuECNDbkslcrMXbHxycAngnV094OwvjcpIh4c4ijOyr5Z1SehhZbDCfYjKbx2UwfrPiLVd_D2cJxM-IfDY9Z4UhFnYcJD8jXOaeHlx2xYg-pNnLQvNzdjg/s200/TV%C3%8DDEONEWS.webp" group-title="Documentário",TVÍDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1103807072.m3u8
 
+#EXTINF:-1 tvg-id="FilmRise.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d14f93731e74194bccfccf86df7e019f.webp" group-title="Séries ",FilmRise Séries Gratuitas
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889320
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42cb09180fe07eee094bcdf4b3f76feb.webp" group-title="Esportes",Drive Channel
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
+
