@@ -199,3 +199,6 @@ https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42cb09180fe07eee094bcdf4b3f76feb.webp" group-title="Esportes",Drive Channel
 https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/CNN_Brasil_%28red_background%29.svg/250px-CNN_Brasil_%28red_background%29.svg.png" group-title="Notícias",CNN BRASIL
+https://hplay.tv/augetv/12396547488/902.m3u8
+
