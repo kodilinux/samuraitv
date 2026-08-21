@@ -405,3 +405,236 @@ https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br@SD" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS Portuguese (1080p)
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6aa0ad770325c0c0b656ab54716e542.webp" group-title="CXTV Brasil",TV MAX Ao Vivo- Rio de Janeiro, RJ
+https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/47c3f8ec470d526c80efe89c8c095f8a.webp" group-title="CXTV Brasil",Unique Sports 1 Ao Vivo- Brasil
+https://pop.uniquetv.com.br/uniquesports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae3270712e80a6ee4cd2dd542fcc48c6.webp" group-title="CXTV Brasil",Tv Carioca Internacional Ao Vivo - Assista Online Grátis
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3e1cf45d955a59f31b70a2a4223e6556.webp" group-title="CXTV Brasil",Tv Channel Network Ao Vivo - Assista Online Grátis
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp" group-title="CXTV Brasil",RBATV (Band PA) Ao Vivo- Belém, PA
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="CXTV Brasil",Rede Vida Ao Vivo - Assista Online Grátis
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e66f9447b7d829121417cfa6b60f24d8.webp" group-title="CXTV Brasil",TV SÉCULO 21 Ao Vivo- Valinhos, SP
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7b29c59b448d2930ce7045924cfbc1df.webp" group-title="CXTV Brasil",Western Bound Ao Vivo- Estados Unidos
+https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/069153afeabc056a84104f0902ae19e1.webp" group-title="CXTV Brasil",TV A Crítica Ao Vivo- Manaus, AM
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d4c57d1d109372f3fac1e91b0a0f7086.webp" group-title="CXTV Brasil",TV Sonata Ao Vivo- Caieiras, SP
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3c8aa9786f48bcbd9df5c6deee82407a.webp" group-title="CXTV Brasil",Sobrenatural TV Ao Vivo - Assista Online Grátis
+https://live.wayone.cloud:443/waytv/waytv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85b498edcd66663ea7dfb0c1f9fc697e.webp" group-title="CXTV Brasil",TV Tropical (Rede Record RN) Ao Vivo - Assista Online Grátis
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f2a67a0c02ab0841afbdd8e7623aeae5.webp" group-title="CXTV Brasil",Motorvision TV Ao Vivo- Estados Unidos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cbcbd850001e26fc5a8e03f879749644.webp" group-title="CXTV Brasil",TV Pai Eterno Ao Vivo- Trindade, GO
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/45c64f0fcb64c6441c9d9ddff2671b23.webp" group-title="CXTV Brasil",ORTV Filmes e Variedades Ao Vivo - Assista Online Grátis
+https://tv.ortv.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="CXTV Brasil",Tv Clássicos Ao Vivo- São Paulo, SP
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="CXTV Brasil",Filmes Online Ao Vivo- Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="CXTV Brasil",TV ONE Ao Vivo- Belém, PA
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0049b33f9d70ac2fbea58163c3053423.webp" group-title="CXTV Brasil",Rede Brasil de Televisão Ao Vivo - Assista Online Grátis
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/af00a626f71e3a3dfadb5a5c8ffa086c.webp" group-title="CXTV Brasil",TCM- TV Cabo Mossoró Ao Vivo - Assista Online Grátis
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cc174cca08ed6deddcd11082f0834a5a.webp" group-title="CXTV Brasil",SBT News Ao Vivo- Brasil
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/30b5156f5206356ea7e928eedcbc7667.webp" group-title="CXTV Brasil",Lucas Tv Ao Vivo- São Paulo, SP
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9bd1d2e18c2e6c9ca027b4dc639b3b02.webp" group-title="CXTV Brasil",Mega TV Ao Vivo- São Paulo, SP
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/34525194fbe238dab8d29fd301d63212.webp" group-title="CXTV Brasil",Tv Templo Ao Vivo- São Paulo, SP
+https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8bbe6817af0af2e0e5a6df96f245b752.webp" group-title="CXTV Brasil",N Sports Ao Vivo- Brasil
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b0baf19518fb782525c37b40c2f5d9b5.webp" group-title="CXTV Brasil",Rede TV Ao Vivo- São Paulo, SP
+https://cdndirector.dailymotion.com/cdn/live/video/x8xps0s.m3u8?sec=XAC2TjdHd5EmNO4ZsZ3DkQilKezd_0WNEYpL64QJsitNu2Z9oK4RlRIF4LfKxtZ_G9tL4zz8gxRF5V-IHczHNmHo_gk9BML4K7CQa46Rl2k
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e203baa61a997851f879286d0e262b59.webp" group-title="CXTV Brasil",TV Gazeta (Rede Gazeta) Ao Vivo - Assista Online Grátis
+https://cdndirector.dailymotion.com/cdn/live/video/x8ttlxm.m3u8?sec=nl0kXgm7zWcyBWrs2O5_nBrprdwVft3kd2UHBbCEqt7kzMrfTq6B_cSzGaOwmf9v7CNbqPu754ISYQcD49LYPpiNg_0SWJe-EJcV4EcTbqw
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1da08d69331552d9dbcab51e2228c53d.webp" group-title="CXTV Brasil",Reviva Tv Ao Vivo- Brasil
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bad404e3cd39c2d21e3bc053c44691ec.webp" group-title="CXTV Brasil",Sony One Cinema Ao Vivo- Brasil
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c44a8bd6e3634b22e307678c4f21d127.webp" group-title="CXTV Brasil",RIT TV Ao Vivo- São Paulo, SP
+https://stream.ecast.com.br/rit-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/38c67fdfc57a8a0087e02316d408473b.webp" group-title="CXTV Brasil",Geekdot Ao Vivo- Brasil
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6788ade239f63ac5f8262c188729285c.webp" group-title="CXTV Brasil",TV Paraná Turismo (Cultura PR) Ao Vivo - Assista Online Grátis
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="CXTV Brasil",Runtime Comédia Ao Vivo- Brasil
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="CXTV Brasil",Gospel Music Television Ao Vivo - Assista Online Grátis
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f2afc3b483887faa74817c62ee6b8d67.webp" group-title="CXTV Brasil",TV Conquista (Rede Record) Ao Vivo - Assista Online Grátis
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ac834a189809106bcd9593bfa5269e47.webp" group-title="CXTV Brasil",CHANNEL 1 Ao Vivo- Brasil
+https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/702517cc49df69d1f090c7d5227c53ba.webp" group-title="CXTV Brasil",RS News Sports 5 Ao Vivo - Assista Online Grátis
+https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e0ff78240cc23f1868ce2a008a92c58d.webp" group-title="CXTV Brasil",Red Bull TV Ao Vivo - Assista Online Grátis
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="CXTV Brasil",TV NBT Ao Vivo- Belém, PA
+https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/69673434b607b4db5fb14633654a0ced.webp" group-title="CXTV Brasil",TV Jovem Pan News Ao Vivo - Assista Online Grátis
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/041a53eb1b2c6c9d65151c102342544b.webp" group-title="CXTV Brasil",TV Brasil Ao Vivo- Brasília, DF
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/59185e7c084459e7a3d5d726f86aa2c7.webp" group-title="CXTV Brasil",TV Aparecida Ao Vivo- Aparecida, SP
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cbcbbc692ed0a16a020df7e0fd6816fa.webp" group-title="CXTV Brasil",Tv Cidade Brasil Ao Vivo- Brasília, DF
+https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/71b0f9abc764972773cad092b8610c03.webp" group-title="CXTV Brasil",TV Capital Ao Vivo- Fortaleza, CE
+https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="CXTV Brasil",Gospel Movie TV Ao Vivo- São Paulo, SP
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/83d7b3d3df0b2dff23bf51ad0d028d6b.webp" group-title="CXTV Brasil",Al Jazeera English Ao Vivo - Assista Online Grátis
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6044f74f88a8d13430fb41e4caeca5f0.webp" group-title="CXTV Brasil",Rede NGT Ao Vivo- São Paulo, SP
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d763ea519688a3d155d370eaa3c9892b.webp" group-title="CXTV Brasil",Canal Futura Ao Vivo - Assista Online Grátis
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c3df6e91d9d87e75939c42a6bbec3d6c.webp" group-title="CXTV Brasil",Tv Arena Djs Ao Vivo- São Paulo, SP
+https://stmv8.samcast.com.br/arenajs/arenajs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d14f93731e74194bccfccf86df7e019f.webp" group-title="CXTV Brasil",FilmRise Séries Gratuitas Ao Vivo - Assista Online Grátis
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889320
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/26c5a30029b81339ef17a02aa420f64c.webp" group-title="CXTV Brasil",RT en Español Ao Vivo- Moscou, Rússia
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b68ceee26212c27dca7a885602969d9c.webp" group-title="CXTV Brasil",TVCI Ao Vivo- Paranaguá, PR
+https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f1b3ee68f9bd23c87dab4a49e755b2.webp" group-title="CXTV Brasil",FIFA Plus - Português Ao Vivo- Suíça
+https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4da6b42bfeb89ac05d8835cfa0f2e1ae.webp" group-title="CXTV Brasil",Tv Horizonte Ao Vivo - Assista Online Grátis
+https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp" group-title="CXTV Brasil",AWTV Ao Vivo- Sorocaba, SP
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5c2cd9d569c63b9c04151160b32aaf1a.webp" group-title="CXTV Brasil",Tela Brasil Tv Ao Vivo- Brasil
+https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="CXTV Brasil",Tv Loading Ao Vivo- São Paulo, SP
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/87464e2fb467b19b710aadb2da52725d.webp" group-title="CXTV Brasil",Web Tv Xtreme Ao Vivo- Camaquã, RS
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="CXTV Brasil",Web Tv Cine Ao Vivo- Adamantina, SP
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="CXTV Brasil",Web Tv Clássicos do Cinema Ao Vivo - Assista Online Grátis
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="CXTV Brasil",Tv Aracati HD Ao Vivo- Fortaleza, CE
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/58ef6f711bd4731bc5f0095f223b0fe0.webp" group-title="CXTV Brasil",TV Aratu Ao Vivo- Salvador, BA
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/305ed7feedcd4c922980a679bffacba5.webp" group-title="CXTV Brasil",Porto Alegre 24 Horas TV (Pop Tv) Ao Vivo - Assista Online Grátis
+https://rtisoluctions.com.br/hls/test.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ad098033466e6a8f12678abed2172f66.webp" group-title="CXTV Brasil",Top Tv Ao Vivo- São Paulo, SP
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/82f20da9a5abfbf7420a5058a7852cab.webp" group-title="CXTV Brasil",Anime Channel Ao Vivo- Brasil
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/51c413ead0e8c87add0d495e338d83e2.webp" group-title="CXTV Brasil",Grjngo Ao Vivo- Brasil
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bbcbd9c502664757184f48a121393d12.webp" group-title="CXTV Brasil",TV Vila Real (Record MT) Ao Vivo - Assista Online Grátis
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="CXTV Brasil",Runtime Ação Ao Vivo- Brasil
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/80445724b0084751d2edc41bb8eb6a9f.webp" group-title="CXTV Brasil",Baby Shark TV Ao Vivo- Estados Unidos
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/686af5ac940d65d1047605c09e3d48c2.webp" group-title="CXTV Brasil",BDC TV (TV Á Crítica) Ao Vivo - Assista Online Grátis
+https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="CXTV Brasil",TV Cultura Ao Vivo- São Paulo, SP
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e77ec3ec8016c9fd59aead82a6eca6db.webp" group-title="CXTV Brasil",RedeTV Paraná Ao Vivo- Abatiá, PR
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/aade542208ceee1dd2c608fe42c0375c.webp" group-title="CXTV Brasil",5-Minute Crafts Ao Vivo - Assista Online Grátis
+https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/365cda8ce34a301e813ff056a9b626fe.webp" group-title="CXTV Brasil",TV Clube RN Ao Vivo- Natal, RN
+https://radios.braviahost.com.br:2020/hls/tvclubern/tvclubern.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7ab9a956d38f2361c92545120dee2a95.webp" group-title="CXTV Brasil",RT Documentary Channel Ao Vivo- Rússia
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cd6b5dd8f0aa8191dc9869fb54dc5886.webp" group-title="CXTV Brasil",Runtime Ao Vivo- Brasil
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/26abdb540125e646038f21b36e12639f.webp" group-title="CXTV Brasil",Wording Tv Ao Vivo - Assista Online Grátis
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3492d6822618e371b1a2587c584cd988.webp" group-title="CXTV Brasil",TV Evangelizar Ao Vivo- Curitiba, PR
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="CXTV Brasil",Record News Ao Vivo- São Paulo, SP
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/34255e4a9cedfa6409ec5d3b4fb0d376.webp" group-title="CXTV Brasil",Educativa MS Ao Vivo- Campo Grande, MS
+https://stream01.digilab.com.br/fertel/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a464ae68b020893d77567b327533efa8.webp" group-title="CXTV Brasil",TVI Ficção Ao Vivo- Portugal
+https://video-auth7.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDEyOjk6MjcgUE0maGFzaF92YWx1ZT1XeXEzUDZTR1FpWUZTdk5pY1FMRTZBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZmFjMjNhOWEtZTQzOS00NjE4LWI2MDgtNjRmNTU5OWUzNzdh
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bf64a6c1f59709514cf0d763b6c0faa6.webp" group-title="CXTV Brasil",TV Rede Gospel Ao Vivo- São Paulo, SP
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5d386500ebc7f1be9d49188de6f44fa5.webp" group-title="CXTV Brasil",SBT Interior Ao Vivo - Assista Online Grátis
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d1ccb100fb163791ff314b91c0c3678f.webp" group-title="CXTV Brasil",Sony One Shark Tank Brasil Ao Vivo - Assista Online Grátis
+https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cb11c7b420ed0d82de6c3403ee72f3d9.webp" group-title="CXTV Brasil",TV Metropole Ao Vivo- Fortaleza, CE
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fee4bcbe6932805a9862a46b1773a0c1.webp" group-title="CXTV Brasil",Euronews PT Ao Vivo- Portugal
+https://598c4b93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="CXTV Brasil",Retro Cartoon Ao Vivo- São Paulo, SP
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bdb778b9b02a61d5c5ac3e5218957da8.webp" group-title="CXTV Brasil",TV Cidade Verde (SBT PI) Ao Vivo - Assista Online Grátis
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f0a3c3c7b9a651e847d86dd71bbb5551.webp" group-title="CXTV Brasil",Gospel Cartoon Ao Vivo- Brasil
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/29545cfe74b1a0e82f12b0c7f7098fbe.webp" group-title="CXTV Brasil",Ülke TV Ao Vivo- Istanbul, Turquia
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="CXTV Brasil",Classique TV Ao Vivo- Brasil
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/442d0e9d16595bd786733d685f375b56.webp" group-title="CXTV Brasil",Otaku Sign Tv Ao Vivo- Brasil
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ed777683fdb619972ae85298a4925b40.webp" group-title="CXTV Brasil",CazéTV Ao Vivo- Brasil
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f333f62031ea09120c0612d302fe366c.webp" group-title="CXTV Brasil",TV Feliz Ao Vivo- Natal, RN
+https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dd20dc7ce12901f45a5f100a4cc97032.webp" group-title="CXTV Brasil",DW - German Ao Vivo- Berlim, Alemanha
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e52e4eb2683190b28d72dd3f8aeb35d1.webp" group-title="CXTV Brasil",SFT Combat Ao Vivo- Brasil
+https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/39e53ff4eb0078728bfbe6e72dbbb90d.webp" group-title="CXTV Brasil",Reuters TV Ao Vivo- Estados Unidos
+https://amg00453-reuters-amg00453c1-plex-us-2106.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-plexus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0ab5f48ba024a538cd65fd54869ba8ac.webp" group-title="CXTV Brasil",Tv J.SID Ao Vivo- Candeias, BA
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp" group-title="CXTV Brasil",Rede Clouding TV Ao Vivo- Belém, PA
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="CXTV Brasil",GLN TV Ao Vivo- Brasil
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/42cb09180fe07eee094bcdf4b3f76feb.webp" group-title="CXTV Brasil",Drive Channel Tv Ao Vivo- Itajaí, SC
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="CXTV Brasil",Vintage Tv Ao Vivo- Cotia, SP
+https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6983af07687a9604b1142c1967f5bcbc.webp" group-title="CXTV Brasil",Trace Brazuca Ao Vivo- Brasil
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/36b9a94ddc438e8487acba9bc7871adb.webp" group-title="CXTV Brasil",Nature Time Brasil Ao Vivo- Brasil
+https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2112f7942be7a7bf3f4b41e082cee2b8.webp" group-title="CXTV Brasil",Moviesphere Brazil Ao Vivo- Brasil
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ce9e8efdd95d7a2876bfd278dd9ba63d.webp" group-title="CXTV Brasil",AMC En Espanõl Ao Vivo- Estados Unidos
+https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2c12ee932ef481d882e426fb323250a8.webp" group-title="CXTV Brasil",Hardcore Pawn - Em Português Ao Vivo - Assista Online Grátis
+https://amg00627-amg00627c47-plex-international-8092.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/715b5339fc8e47b249dd28acd3ee19b0.webp" group-title="CXTV Brasil",Tv COM Brasil Ao Vivo- Brasília, DF
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a314b7e30030089dbb174ed79458610d.webp" group-title="CXTV Brasil",Sony One Emoções Ao Vivo- Brasil
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/168f0c2d7fb92988c1cb0f156fe390eb.webp" group-title="CXTV Brasil",Play TV Ao Vivo- São Paulo, SP
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae540b891b4a0d073b39ae0bb693f5c3.webp" group-title="CXTV Brasil",Runtime Crime Ao Vivo- Brasil
+https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="CXTV Brasil",TV Igreja Mundial do Poder de Deus - IMPD TV Ao Vivo - Assista Online Grátis
+https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8dae478045ac5204b7f91998806551fc.webp" group-title="CXTV Brasil",TV Verdes Campos Sat Ao Vivo - Assista Online Grátis
+https://a.cdni.live/redeverdes2288/redeverdes2288/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4feef1f6a0041b96534c9d33c1b99cf7.webp" group-title="CXTV Brasil",The Weather Channel Ao Vivo - Assista Online Grátis
+https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6710d872d321a358ac394d73309c82a.webp" group-title="CXTV Brasil",BBC Earth Ao Vivo- Reino Unido
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/14bb184c151e53c2210b218fff80f69e.webp" group-title="CXTV Brasil",Caravana Play Ao Vivo- Brasil
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+
